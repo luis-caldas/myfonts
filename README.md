@@ -1,7 +1,9 @@
 # My Fonts
 
-These fonts were acquired through [google fonts](https://fonts.google.com/).
+Collection of fonts that I use on my system
 
-The `*.conf` files must go to `/etc/fonts/conf.d/`.
+### Installation
 
-The `*.ttf` font files must go to `/usr/share/fonts/truetype/roboto/`.
+The `30-my-substitutions.conf` file must be linked to the inside of the `/etc/fonts/conf.d/` folder
+
+The `my-custom-fonts` folder must be linked to the inside of the `/usr/share/fonts/` folder
