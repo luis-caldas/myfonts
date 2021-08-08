@@ -45,6 +45,7 @@
     <alias name="helvetica" to="sans-serif" />
     <alias name="tahoma" to="sans-serif" />
     <alias name="verdana" to="sans-serif" />
+    <alias name="roboto" to="sans-serif" />
 
     <family name="sans-serif-condensed">
         <font weight="300" style="normal">iosevka-aile-light.ttf</font>
